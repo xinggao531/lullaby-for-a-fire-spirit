@@ -70,3 +70,7 @@ The fight takes place in **Magma Hollow**, Pyrrhos's lava cave: a basalt platfor
 - **Blazing Aegis:** below 55% HP (and again at 25%) he gains a shield. It counts hits, not damage: physical slashes are blocked, and every Cryo or Hydro hit takes off exactly one point (60 points at 55%, 45 at 25%, scaled by difficulty). Breaking it staggers him for 5.5s (he slumps, dazed, and takes full hits; this is not a Freeze, which only comes from the Cryo + Hydro reaction).
 - **Boss animation:** Pyrrhos breathes while idle, winds up with a "!" cue, lunges into the attack pose for volleys and eruptions, curls into his rock-ball defence form to roll through his charge and while his Aegis is up, flares into his burst form for shockwaves, meteors and spirals, is encased in ice when Frozen, and slumps with dazed embers circling his head when his shield breaks (Staggered) or he's defeated.
 - **Attacks:** fireball volleys, a telegraphed charge that leaves fire, eruptions, and shockwave rings you can dash through. Phase II adds a meteor rain and a bullet spiral.
+
+## Also in this repo: Idea Catcher
+
+[`idea-catcher/`](idea-catcher/) is a separate iPhone voice-notebook app (a Home Screen web app) that records ideas, timestamps them and sorts them into projects with Claude. See its [README](idea-catcher/README.md).
